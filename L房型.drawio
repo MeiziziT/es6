@@ -44,16 +44,25 @@
           <mxGeometry x="562" y="600" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JJXo-O7gXIbM5pAcpRxp-6" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="490" y="410" width="60" height="100" as="geometry" />
+          <mxGeometry x="510" y="415" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JJXo-O7gXIbM5pAcpRxp-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="582" y="350" width="80" height="240" as="geometry" />
+          <mxGeometry x="610" y="345" width="80" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JJXo-O7gXIbM5pAcpRxp-8" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="572" y="600" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JJXo-O7gXIbM5pAcpRxp-9" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="582" y="685" width="278" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JJXo-O7gXIbM5pAcpRxp-11" value="173" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="695" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JJXo-O7gXIbM5pAcpRxp-12" value="80" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="778" y="458" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JJXo-O7gXIbM5pAcpRxp-13" value="80" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="698" y="458" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
